@@ -27,13 +27,13 @@ depositar e visualizar histórico. Além disso, para a versão 2 do nosso sistem
 Separar as funções existentes de saque, depósito e extrato em funções. Criar duas novas funções: cadastrar usuário
 (cliente) e cadastrar conta bancária.
 
-##🤖 Tecnologias Utilizadas
+## 🤖 Tecnologias Utilizadas
 
 - Python como linguagem principal
 - Tkinter para criar interfaces gráficas de usuário (GUIs)
 - Ferramenta VsCode para codar
 
-##🧐 Processo de Criação
+## 🧐 Processo de Criação
 
 Utilizei o Python como linguagem principal e a biblioteca do Tkinter para criar janelas, botões, caixas de texto, 
 menus e outros componentes gráficos. E VScode como ferramenta pois é possivel encontrar tudo no mesmo ambiente.
