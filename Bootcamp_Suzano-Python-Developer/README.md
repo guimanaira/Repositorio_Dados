@@ -13,7 +13,7 @@ Bem-vindo ao repositório do **Bootcamp Suzano**! Aqui compartilho meu progresso
 ## 📂 Projetos Desenvolvidos
 Durante o bootcamp, apliquei os conhecimentos adquiridos em projetos práticos:
 
-### 🏦 [Criando um Sistema Bancário com Python](https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Suzano-Python-Developer/01_Criando%20um%20Sistema%20Banc%C3%A1rio%20com%20Python/criando_sistema_bancario.md)
+### 🏦 [Criando um Sistema Bancário com Python](https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Suzano-Python-Developer/01_Criando%20um%20Sistema%20Banc%C3%A1rio%20com%20Python/criacao_sistema_bancario.md)
 
 
 ### 🏦 [Otimizando o Sistema Bancário com Funções Python](https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Suzano-Python-Developer/02_Otimizando%20o%20Sistema%20Banc%C3%A1rio%20com%20Fun%C3%A7%C3%B5es%20Python/otimizacao_sistema_bancario.md)
