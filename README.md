@@ -2,10 +2,11 @@
 Transformo dados em insights estratégicos para impulsionar a tomada de decisões. Minha especialidade é manipulação de dados, criação de dashboards interativos e análise de métricas de desempenho.
 
 ## 💡 Habilidades
-✅ SQL para extração e manipulação de dados
-✅ Visualização de dados com Power BI
-✅ Análise e modelagem de dados
-✅ Python para análise de dados
+
+- ✅ SQL para extração e manipulação de dados
+- ✅ Visualização de dados com Power BI
+- ✅ Análise e modelagem de dados
+- ✅ Python para análise de dados
 
 ## 📌 Projetos
 
