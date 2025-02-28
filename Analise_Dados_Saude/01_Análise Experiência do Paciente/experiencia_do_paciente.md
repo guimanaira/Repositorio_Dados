@@ -1,7 +1,7 @@
 # Análise da Experiência do Paciente 🩺
 
 ## 🚀 Contexto
-O atendimento é uma área sensível e essencial, onde a qualidade da experiência do cliente influencia diretamente a satisfação, lealdade e reputação do serviço. Esta análise aborda as notas de avaliação dos clientes para entender fatores críticos que impactam a percepção do serviço. 
+O atendimento é uma área sensível e essencial, onde a qualidade da experiência do cliente influencia diretamente a satisfação, lealdade e reputação do serviço. A proposta da análise é abordar as notas de avaliação dos clientes para entender fatores críticos que impactam a percepção do serviço. 
 
 ## 📒 Objetivo Geral
 Analisar e identificar padrões e oportunidades de melhoria na experiência do cliente em serviços de atendimento médico, considerando dados específicos e nota de avaliação.
