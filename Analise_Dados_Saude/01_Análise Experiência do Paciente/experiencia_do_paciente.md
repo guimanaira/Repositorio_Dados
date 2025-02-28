@@ -34,6 +34,8 @@ Recomendações e Satisfação Geral
 ## 🧐 Processo de Criação
 Utilizei Excel como principal ferramenta para estruturar e visualizar os dados. Foi aplicado conceitos básicos de estatística para analisar as avaliações e gerar insights sobre a experiência dos clientes.
 
+## 📊 Dashboard
+
 ## 🔍 Insights
 - O tempo de espera é um fator crítico na satisfação geral.
 - A avaliação da equipe médica é melhor em setores de emergência e consulta.
