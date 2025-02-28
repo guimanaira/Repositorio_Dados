@@ -16,4 +16,4 @@ Fatores Críticos: Analisamos os principais aspectos que influenciam a percepç�
 - Noções estatísticas para identificar padrões e interpretar resultados.
 
 ## 🧐 Processo de Criação
-Utilizei Excel como principal ferramenta para estruturar e visualizar os dados. Aplicamos conceitos básicos de estatística para analisar as avaliações e gerar insights sobre a experiência dos clientes.
+Utilizei Excel como principal ferramenta para estruturar e visualizar os dados. Foi aplicado conceitos básicos de estatística para analisar as avaliações e gerar insights sobre a experiência dos clientes.
