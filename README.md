@@ -1,4 +1,4 @@
-# Bem vindo ao meu Repositório de Dados
+# Explorando Dados 📊📈🔍
 Transformo dados em insights estratégicos para impulsionar a tomada de decisões. Minha especialidade é manipulação de dados, criação de dashboards interativos e análise de métricas de desempenho.
 
 ## 💡 Habilidades
