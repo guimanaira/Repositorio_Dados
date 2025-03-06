@@ -18,4 +18,4 @@ Iniciar a modelagem do sistema bancário em POO. Adicionar classes para cliente 
 
 # 🧐 Processo de Criação
 
-Utilizei o Python como linguagem principal e a biblioteca do Tkinter para criar janelas, botões, caixas de texto, menus e outros componentes gráficos. E VScode como ferramenta pois é possivel encontrar tudo no mesmo ambiente.
+Utilizei o Python como linguagem principal e VScode como ferramenta pois é possivel encontrar tudo no mesmo ambiente.
