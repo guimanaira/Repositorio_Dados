@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório do **Bootcamp Santander**! Aqui compartilho meu progresso, insights e projetos desenvolvidos ao longo desta jornada focada na ferramenta dd **Excel**.
 
-# 📚 Conteúdos Principais
+## 📚 Conteúdos Principais
 
 - **Dominando Tabelas com Excel:** Introdução ao Excel 365, Criação de Tabelas dinâmicas, Formatação Condicionais e Validações de Dados
 - **Trabalhando com Fórmulas no Excel:** Formulas Matemáticas, Buscas e Textos
@@ -13,12 +13,12 @@ Bem-vindo ao meu repositório do **Bootcamp Santander**! Aqui compartilho meu p
 Durante o bootcamp, apliquei os conhecimentos adquiridos em projetos práticos:
 
 
-## 🏦 Criando uma Ferramenta de Controle de Investimentos com Excel
+### 🏦 Criando uma Ferramenta de Controle de Investimentos com Excel
 
-## 🏦 Criando um Organizador de Declaração de Imposto de Renda
+### 🏦 Criando um Organizador de Declaração de Imposto de Renda
 
-## 🏦 Manipulação de Dados no Excel
+### 🏦 Manipulação de Dados no Excel
 
-## 🖨️ Criando um Dashboard de Vendas do Xbox com Excel
+### 🖨️ Criando um Dashboard de Vendas do Xbox com Excel
 
-## 💬 Funções e Fórmulas no Excel
+### 💬 Funções e Fórmulas no Excel
