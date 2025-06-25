@@ -13,7 +13,7 @@ Bem-vindo ao meu repositório do **Bootcamp Santander**! Aqui compartilho meu p
 Durante o bootcamp, apliquei os conhecimentos adquiridos em projetos práticos:
 
 
-### 🏦 Criando uma Ferramenta de Controle de Investimentos com Excel
+### 🏦 [Criando uma Ferramenta de Controle de Investimentos com Excel](https://github.com/guimanaira/Repositorio_Dados/tree/main/Bootcamp_Santander-Excel_com_IA/Criando_uma_Ferramenta%20de_Controle_de_Investimentos)
 
 ### 🏦 Criando um Organizador de Declaração de Imposto de Renda
 
