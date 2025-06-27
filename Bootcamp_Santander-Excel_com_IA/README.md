@@ -17,5 +17,5 @@ Durante o bootcamp, apliquei os conhecimentos adquiridos em projetos práticos:
 
 ### 🦁 [Criando um Organizador de Declaração de Imposto de Renda](https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Santander-Excel_com_IA/02_Criando_um_Organizador_de_Imposto_de_Renda/Organizador_de_Imposto_de_Renda.md)
 
-### 🖨️ Criando um Dashboard de Vendas do Xbox com Excel
+### 🎮 Criando um Dashboard de Vendas do Xbox com Excel
 
