@@ -1,4 +1,4 @@
-# Criando um Organizador de Declaração de Imposto de Renda 📊
+# Criando um Organizador de Declaração de Imposto de Renda 🦁
 
 ## 🚀 Desafio
 
