@@ -15,7 +15,7 @@ Durante o bootcamp, apliquei os conhecimentos adquiridos em projetos práticos:
 
 ### 🏦 [Criando uma Ferramenta de Controle de Investimentos com Excel](https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Santander-Excel_com_IA/01_Criando_uma_Ferramenta%20de_Controle_de_Investimentos/Criando_uma_Ferramenta%20de_Controle_de_Investimentos.md)
 
-### 🏦 [Criando um Organizador de Declaração de Imposto de Renda](https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Santander-Excel_com_IA/01_Criando_uma_Ferramenta%20de_Controle_de_Investimentos/Criando_uma_Ferramenta%20de_Controle_de_Investimentos.md)
+### 🏦 [Criando um Organizador de Declaração de Imposto de Renda](https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Santander-Excel_com_IA/02_Criando_um_Organizador_de_Imposto_de_Renda/Organizador_de_Imposto_de_Renda.md)
 
 ### 🏦 Manipulação de Dados no Excel
 
