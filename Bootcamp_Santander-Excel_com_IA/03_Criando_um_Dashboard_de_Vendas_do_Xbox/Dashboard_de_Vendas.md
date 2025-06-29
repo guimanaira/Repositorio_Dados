@@ -19,7 +19,7 @@ O objetivo é transformar dados brutos em informações visuais claras e úteis,
 - Excel
 
 ## 🧐 Processo de Criação
-Utilizei o Excel como ferramenta principal para definir o layout da planilha, criação das tabelas, implementação de fórmulas financeiras, automatização de cenários, tipos e perfis de FII e definição da experiência visual.
+Utilizei o Excel como ferramenta principal para definir o layout da planilha, definição da experiência visual e criação de dashboards.
 
 
 ## 💻 Projeto
