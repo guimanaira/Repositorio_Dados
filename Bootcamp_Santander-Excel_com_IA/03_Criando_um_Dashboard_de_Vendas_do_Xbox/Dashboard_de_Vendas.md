@@ -10,7 +10,9 @@ O objetivo é transformar dados brutos em informações visuais claras e úteis,
 ## 🎯 Perguntas de Negócio
 
 1. Qual o faturamento total de vendas dos planos anuais?
-2. Qual o faturamento total de vendas de planos anuais, separado por auto renovação e não é por auto renovação? 
+2. Qual o faturamento total de vendas de planos anuais, separado por auto renovação e não é por auto renovação?
+3. Qual o total de venda de planos a cada mês?
+4. Em qual mês se obteve mais vendas? 
 
 
 ## 🤖 Ferramentas Utilizadas
@@ -22,4 +24,4 @@ Utilizei o Excel como ferramenta principal para definir o layout da planilha, cr
 
 ## 💻 Projeto
 
-- [Criando uma Dashboard de Vendas do Xbox com Excel]
+- [Criando uma Dashboard de Vendas do Xbox com Excel](https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Santander-Excel_com_IA/03_Criando_um_Dashboard_de_Vendas_do_Xbox/dashboard_vendas_xbox.xlsx)
