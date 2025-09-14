@@ -1,6 +1,6 @@
 # ♨️ Santander - Excel com Inteligência Artificial
 
-Bem-vindo ao meu repositório do **Bootcamp Santander**! Aqui compartilho meu progresso, insights e projetos desenvolvidos ao longo desta jornada focada na ferramenta dd **Excel**.
+Bem-vindo ao meu repositório do **Bootcamp Santander**! Aqui compartilho meu progresso, insights e projetos desenvolvidos ao longo desta jornada focada na ferramenta dO **Excel**.
 
 ## 📚 Conteúdos Principais
 
