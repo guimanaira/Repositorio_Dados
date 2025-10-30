@@ -32,6 +32,7 @@ Utilizei o Excel como ferramenta principal para definir o layout da planilha, cr
 
 
 ## 💻 Projeto
+Clique na Imagem para acessar o arquivo.
 <p align="center">
   <a href="https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Santander-Excel_com_IA/01_Criando_uma_Ferramenta%20de_Controle_de_Investimentos/simulador_imobiliario.xlsx">
   <img src="https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Santander-Excel_com_IA/01_Criando_uma_Ferramenta%20de_Controle_de_Investimentos/santanderimob.JPG" height="600"/></a>
