@@ -1,12 +1,16 @@
 # Criando uma Ferramenta de Controle de Investimentos com Excel 📊
 
 ## 🚀 Desafio
-
-O desafio tem como objetivo **aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários**. A partir de uma compreensão aprofundada sobre como os fundos imobiliários funcionam e as perguntas típicas dos investidores (quanto investir, por quanto tempo, taxa de rendimento, etc.), o desafio consiste em **construir uma planilha que ajude o usuário a realizar essas simulações**, auxiliando-o a tomar decisões mais informadas sobre seus investimentos. A solução proposta visa automatizar cálculos complexos, como o valor total investido, o patrimônio acumulado e os dividendos mensais, proporcionando ao usuário uma visão clara de seu potencial retorno.
+O desafio teve como objetivo aplicar conceitos práticos de Excel no desenvolvimento de uma ferramenta funcional de simulação de investimentos em Fundos Imobiliários (FIIs).
+A proposta foi criar uma planilha que auxiliasse o investidor a responder perguntas essenciais como:
+- Quanto investir mensalmente?
+- Por quanto tempo manter os aportes?
+- Qual rendimento médio esperar?
+A ferramenta automatiza cálculos como valor total investido, patrimônio acumulado e dividendos mensais, oferecendo uma visão clara e estratégica do potencial de retorno ao longo do tempo.
 
 ## 📒 Objetivo Geral
 
-- Criar um simulador simples de investimentos imobiliários.
+- Criar um simulador de investimentos imobiliários intuitivo e automatizado, que auxilie investidores iniciantes e intermediários na tomada de decisões financeiras mais conscientes.
 
 ## 🎯 Perguntas de Negócio
 
@@ -24,16 +28,37 @@ O desafio tem como objetivo **aplicar os conceitos de Excel no desenvolvimento d
 
 ## 🤖 Ferramentas Utilizadas
 
-- Excel
+- Microsoft Excel
 
 ## 🧐 Processo de Criação
 
-Utilizei o Excel como ferramenta principal para definir o layout da planilha, criação das tabelas, implementação de fórmulas financeiras, automatização de cenários, tipos e perfis de FII e definição da experiência visual.
+Durante o desenvolvimento, foram seguidas as seguintes etapas:
+- Planejamento da estrutura da planilha — definição de abas, layout e indicadores principais.
+- Criação das tabelas base — aportes, rendimentos, dividendos e tempo de investimento.
+- Aplicação de fórmulas financeiras — cálculos automáticos de rendimento composto, total investido e dividendos.
+- Testes e validação — simulações com diferentes perfis de investidor.
+- Design visual e experiência do usuário — cores, ícones e disposição para facilitar o uso.
 
 
 ## 💻 Projeto
-Clique na Imagem para acessar o arquivo.
+O simulador permite ao usuário visualizar:
+- O crescimento do patrimônio ao longo dos anos;
+- O total investido e juros compostos acumulados;
+- O valor estimado de dividendos mensais;
+- Cenários comparativos para diferentes períodos e rendimentos.
+
+Clique na imagem abaixo para acessar o arquivo no Excel
 <p align="center">
   <a href="https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Santander-Excel_com_IA/01_Criando_uma_Ferramenta%20de_Controle_de_Investimentos/simulador_imobiliario.xlsx">
-  <img src="https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Santander-Excel_com_IA/01_Criando_uma_Ferramenta%20de_Controle_de_Investimentos/santanderimob.JPG" height="600"/></a>
+  <img src="https://github.com/guimanaira/Repositorio_Dados/blob/main/Bootcamp_Santander-Excel_com_IA/01_Criando_uma_Ferramenta%20de_Controle_de_Investimentos/santanderimob.JPG" height="550" /></a>
 </p>
+
+## 🏁 Conclusão
+
+Este projeto proporcionou uma experiência prática no uso do Excel como ferramenta analítica e de automação financeira, reforçando habilidades de:
+- Raciocínio lógico e financeiro
+- Modelagem de dados
+- Criação de dashboards interativos
+- Comunicação visual de resultados
+
+💡 Com esta ferramenta, é possível transformar dados financeiros em decisões inteligentes, simulando diferentes estratégias de investimento com apenas alguns cliques.
